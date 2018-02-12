@@ -20,5 +20,7 @@ function logWhisper(string)
 
 function sayHiToGrandma(string)
 {
+  var uppercase = string.toUpperCase()
   
+  if(string)
 }
